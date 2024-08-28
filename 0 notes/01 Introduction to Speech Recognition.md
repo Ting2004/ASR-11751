@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: ./assets
+---
+
 # Introduction to Speech Recognition
 
 8/28/2024
@@ -78,7 +82,9 @@ may have different recording environments, style and transcribe
 
 ### Available sources
 
-![image-20240828163106942](C:\Users\tingc\AppData\Roaming\Typora\typora-user-images\image-20240828163106942.png)
+![image-20240828163106942](./assets/image-20240828163106942.png)
+
+
 
 
 
