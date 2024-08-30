@@ -27,7 +27,8 @@ ___
 
 #### Edit distance
 
-- ==Levenshtein distance algorithm==
+- [IMPORTANT] Levenshtein distance algorithm
+- *learn how to do it by hand / learn why it works*
   - setup table
   - initialize dummy values
   - calculate cost based on above, left and diagonal grids
