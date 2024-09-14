@@ -46,10 +46,12 @@ e.g.
   - $p(x|y)p(y) = p(x, y)$ 
 - sum rule
   - $p(y) = \sum_{x} p(x, y)$
-- conditional independence *assumption* ==double check==
+- conditional independence *assumption* 
   - $p(x|y, z) = p(x | z)$ 
+    - given $z$, $x$ is independent of $y$
   - $p(x, y|z) = p(x|z)p(y|z)$
-
+    - given $z$, $x$ and $y$ are conditionally independent
+  
 - Bayes rule
   - $p(x|y) = \frac{p(y|x)p(x)}{p(y)}$
   - $= \frac{p(y|x)p(x)}{\sum_{x}p(y|x)p(x)}$
