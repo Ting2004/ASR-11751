@@ -12,7 +12,7 @@ ___
 
 
 
-## output of  ASR
+## output of ASR
 
 - text, could be in different forms: words, characters, phonemes...
 
@@ -46,7 +46,7 @@ ___
 ### end-to-end
 
 - directly map speech feature sequence to word sequences
-- does NOT deal with phoneme based intermdiate repr.
+- does NOT deal with phoneme based intermediate repr.
 - $P(W|O)$
   - **attention-based**
   - **connectionist temporal classification CTC**
