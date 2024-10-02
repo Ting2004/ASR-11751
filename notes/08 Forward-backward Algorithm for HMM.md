@@ -74,9 +74,3 @@ On a diagram like this:
 
 ![image-20240925163107557](./assets/image-20240925163107557.png)
 
-
-
-
-
-
-
