@@ -16,6 +16,7 @@ ___
   
     - domain-specific (smart home): 
       - [fluent speech command - en](https://paperswithcode.com/dataset/fluent-speech-commands)
-    - general: Magicdata
+    - general topic: [Magicdata](https://huggingface.co/datasets/TingChen-ppmc/Tianjin_Dialect_Conversational_Speech_Corpus)
+      - one of the dialect varieties
   - TTS model: ?
 
