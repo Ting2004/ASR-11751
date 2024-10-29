@@ -57,7 +57,7 @@ ___
   - window shift ~10ms
 - similar to convolution
 
-### 
+
 
 ### Number of Points vs. Milliseconds
 
